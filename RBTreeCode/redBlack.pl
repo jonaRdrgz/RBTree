@@ -359,9 +359,9 @@ pausa.
 salida:-
 borraPantalla,
 escribe("|------------------------------------------------------------|"),nl,
-escribe("|--------------------Tecnológico de Costa Rica---------------|"),nl,
-escribe("|--------------Ingeniería en Computación---------------------|"),nl,
-escribe("|-----------------Lenguajes de Programación------------------|"),nl,
+escribe("|--------------------Tecnologico de Costa Rica---------------|"),nl,
+escribe("|--------------Ingenieria en Computacion---------------------|"),nl,
+escribe("|-----------------Lenguajes de Programacion------------------|"),nl,
 escribe("|-------------Jonathan - Marisol - Izcar---------------------|"),nl,
 pausa,
 halt.
